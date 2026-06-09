@@ -19,6 +19,7 @@ minify:
   minifyOutput: true
 
 params:
+  author: "Gavn"
   DateFormat: "2006-1-2"
   defaultTheme: auto
   
